@@ -1,7 +1,7 @@
 # Fraud-Detector-V2
 Version 2 of the fraud detector
 ### skillnader mellan V1 och V2 
-![ett tabell som visar skillnader och motivation](Screenshot 2026-01-20 104117.png)
+![ett tabell som visar skillnader och motivation](Screenshot2026-01-20104117.png)
 # Motivationen bakom koden
 
 1. Från "Facit" till "Intelligens"
